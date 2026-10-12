@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+    "addonSteamAppID" "550"
+    "addonTitle" "Tank Versus"
+    "addonAuthor" "zentoo31"
+    "addonVersion" "1.0"
+    "addonTagline" "Versus con infectados Tank"
+    "addonDescription" "Mutacion Versus: todos los jugadores infectados son Tanks, sin comunes ni Witches."
+}

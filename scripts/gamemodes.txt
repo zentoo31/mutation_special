@@ -1,0 +1,20 @@
+"GameModes"
+{
+    "main_mutation"
+    {
+        "base" "versus"
+        "maxplayers" "8"
+        "playercontrolledzombies" "1"
+        "DisplayTitle" "Tank Versus"
+        "Description" "Cuatro supervivientes contra un equipo de Tanks."
+        "ShortDescription" "Todos los infectados son Tanks."
+
+        "convar"
+        {
+            "z_spawn_safety_range" "600"
+            "z_ghost_travel_distance" "2000"
+            "z_tank_health" "2000"
+            "z_frustration" "0"
+        }
+    }
+}
