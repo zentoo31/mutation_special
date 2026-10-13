@@ -1,9 +1,11 @@
 "AddonInfo"
 {
     "addonSteamAppID" "550"
-    "addonTitle" "Tank Versus"
+    "addonTitle" "Tank Versus zentoo31"
     "addonAuthor" "zentoo31"
     "addonVersion" "1.0"
-    "addonTagline" "Versus con infectados Tank"
-    "addonDescription" "Mutacion Versus: todos los jugadores infectados son Tanks, sin comunes ni Witches."
+    "addonContent_Mutation" "1"
+    "addonContent_Script" "1"
+    "addonTagline" "Tank Versus con comunes payasos"
+    "addonDescription" "Tank Versus: Tanks jugadores, 15 comunes payasos, armas melee y pildoras. Incluye una variante de prueba basada en Versus."
 }

@@ -1,0 +1,12 @@
+"deagle_only"
+{
+    "base"              "none"
+    "maxplayers"        "4"
+    "hasdifficulty"    "1"
+    "singlechapter"    "0"
+    "hasroundlimit"    "0"
+    "DisplayTitle"     "Solo Deagle"
+    "ShortDescription" "Solo pistolas Desert Eagle"
+    "Description"      "Modo experimental independiente: las armas de fuego del mapa se convierten en pistolas magnum."
+    "Author"           "zentoo31"
+}

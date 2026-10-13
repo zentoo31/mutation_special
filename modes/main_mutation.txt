@@ -1,0 +1,19 @@
+"main_mutation"
+{
+    "base"                     "versus"
+    "maxplayers"               "8"
+    "playercontrolledzombies"  "1"
+    "hasdifficulty"            "1"
+    "singlechapter"            "0"
+    "hasroundlimit"            "1"
+    "DisplayTitle"             "Tank Versus - Prueba base Versus"
+    "ShortDescription"         "Modo de prueba separado del Tank Versus funcional"
+    "Description"              "Prueba la mutacion Tank Versus heredando directamente de Versus."
+    "Author"                   "zentoo31"
+
+    convar
+    {
+        z_tank_health 1000
+        pain_pills_health_value 30
+    }
+}

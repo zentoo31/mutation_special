@@ -1,0 +1,19 @@
+"tankversus"
+{
+    "base"                     "mutation19"
+    "maxplayers"               "8"
+    "playercontrolledzombies"  "1"
+    "hasdifficulty"            "1"
+    "singlechapter"            "0"
+    "hasroundlimit"            "1"
+    "DisplayTitle"             "Tank Versus"
+    "ShortDescription"         "Tanks jugadores y comunes payasos"
+    "Description"              "Versus con Tanks jugadores y hasta 15 comunes payasos de salud normal."
+    "Author"                   "zentoo31"
+
+    convar
+    {
+        z_tank_health 1000
+        pain_pills_health_value 30
+    }
+}
